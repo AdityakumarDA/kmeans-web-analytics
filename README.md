@@ -154,7 +154,7 @@ kmeans-web-analytics/
 ├── website_traffic_data.csv
 ├── README.md
 └── images/
-    ├── trafficcost_vs_volume.png
+    ├── trafficcost_vs_Search_volume.png
     ├── elbow_plot.png
     └── cluster_scatter.png
 ```
