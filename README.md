@@ -6,17 +6,17 @@ Built with Python, Pandas, and Scikit-learn, this machine learning project uses 
 
 ## 📚 Table of Contents
 
-- [✅ Key Features & Benefits](#key-features--benefits)
-- [📦 Prerequisites & Dependencies](#prerequisites--dependencies)
-- [⚙️ Installation & Setup Instructions](#installation--setup-instructions)
-- [🚀 Usage Examples & API Documentation](#usage-examples--api-documentation)
-- [🛠️ Configuration Options](#configuration-options)
-- [🤝 Contributing Guidelines](#contributing-guidelines)
-- [📜 License Information](#license-information)
-- [🙏 Acknowledgments](#acknowledgments)
-- [🗂️ Project Structure](#️-project-structure)
-- [🚀 Future Enhancements](#-future-enhancements)
-- [👋 About Me](#-about-me)
+- [Key Features & Benefits](#key-features--benefits)
+- [Prerequisites & Dependencies](#prerequisites--dependencies)
+- [Installation & Setup Instructions](#installation--setup-instructions)
+- [Usage Examples & API Documentation](#usage-examples--api-documentation)
+- [Configuration Options](#configuration-options)
+- [Contributing Guidelines](#contributing-guidelines)
+- [License Information](#license-information)
+- [Acknowledgments](#acknowledgments)
+- [Project Structure](#project-structure)
+- [Future Enhancements](#future-enhancements)
+- [About Me](#about-me)
 
 ---
 
@@ -181,3 +181,4 @@ This project is part of my journey to explore practical unsupervised learning ap
 - [Tableau Public](https://public.tableau.com/app/profile/adityakumarda)
 
 If you found this project helpful, give it a ⭐ and share it!
+
