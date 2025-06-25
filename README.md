@@ -164,7 +164,7 @@ kmeans-web-analytics/
 
 ### 1. 🔍 Search Volume vs Traffic Cost
 
-![Search Volume vs Traffic Cost](images/trafficcost_vs_Search_volume.png)
+![Search Volume vs Traffic Cost](ML_Images/trafficcost_vs_Search_volume.png)
 
 This scatter plot visualizes how **Search Volume** impacts the **Traffic Cost** for various website keywords or landing pages. It helps identify outliers — e.g., terms with exceptionally high traffic costs or volume. This can assist in budget optimization for paid campaigns or SEO strategy.
 
@@ -172,7 +172,7 @@ This scatter plot visualizes how **Search Volume** impacts the **Traffic Cost** 
 
 ### 2. 💡 Elbow Method to Determine Optimal Clusters
 
-![Elbow Plot](images/elbow_plot.png)
+![Elbow Plot](ML_Images/elbow_plot.png)
 
 The **Elbow Method** helps us decide the optimal number of clusters (`n_clusters`) for K-Means. It plots the number of clusters vs the clustering inertia (error). The 'elbow point' (highlighted with a red star) indicates the most efficient number of clusters — beyond which performance gain diminishes. In this project, 2 clusters were optimal.
 
@@ -180,7 +180,7 @@ The **Elbow Method** helps us decide the optimal number of clusters (`n_clusters
 
 ### 3. 📊 K-Means Cluster Scatter Plot (Search Volume vs Traffic)
 
-![Cluster Scatter Plot](images/cluster_scatter.png)
+![Cluster Scatter Plot](ML_Images/cluster_scatter.png)
 
 This plot displays final **K-Means clustering results**, where:
 - Each point is a data sample (a keyword or page).
